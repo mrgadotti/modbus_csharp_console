@@ -1,0 +1,9 @@
+C:\Users\marce\source\repos\modbus_test\modbus_test\bin\Debug\modbus_test.exe.config
+C:\Users\marce\source\repos\modbus_test\modbus_test\bin\Debug\modbus_test.exe
+C:\Users\marce\source\repos\modbus_test\modbus_test\bin\Debug\modbus_test.pdb
+C:\Users\marce\source\repos\modbus_test\modbus_test\obj\Debug\modbus_test.csprojAssemblyReference.cache
+C:\Users\marce\source\repos\modbus_test\modbus_test\obj\Debug\modbus_test.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\modbus_test\modbus_test\obj\Debug\modbus_test.exe
+C:\Users\marce\source\repos\modbus_test\modbus_test\obj\Debug\modbus_test.pdb
+C:\Users\marce\source\repos\modbus_test\modbus_test\bin\Debug\EasyModbus.dll
+C:\Users\marce\source\repos\modbus_test\modbus_test\obj\Debug\modbus_test.csproj.CopyComplete
